@@ -1,0 +1,5 @@
+{
+  "name": "AtmosAI Monitoring Dashboard",
+  "description": "A high-performance IoT dashboard for monitoring Atmospheric Water Generators with real-time sensor data, system status tracking, and performance analytics.",
+  "requestFramePermissions": []
+}
